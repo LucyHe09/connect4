@@ -4,7 +4,6 @@ import java.util.*;
 public class Client {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        //AbstractStrategyGame game = new TicTacToe2D();
         AbstractStrategyGame game = new ConnectFour();
 
 
